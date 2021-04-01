@@ -337,8 +337,7 @@ span{
         padding-left: 1em;
     }
     .footerimage{
-        padding-left: 13%;
-        dding-right: 20%;
+        padding-left: 4%;
     }
     .subsimage img {
         padding-top: 2em;
@@ -424,6 +423,26 @@ span{
         text-align: center;
         padding-bottom: 0em;
     }
+    .cr2 h5 {
+        padding-left: 3em;
+    }
+    .crimg h5 {
+        padding-top: 1em;
+        padding-left: 16%;
+    }
+    #extra{
+        padding-left: 1%;
+    }
+    .crimg p {
+        padding-top: 1em;
+        padding-bottom: 4em;
+    }
+    .cr4 p {
+        padding-left: 18%;
+    }
+    .cr2 p {
+        padding-left: 9%;
+    }    
 }
 
 .navbar-toggler-icon {
